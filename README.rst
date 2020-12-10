@@ -11,6 +11,7 @@ Usage
 
 Place the ``timescalecalculus.py`` file into the folder with your
 current working script and import the package using
+
 .. code-block:: python
 
    import timescalecalculus as tsc
